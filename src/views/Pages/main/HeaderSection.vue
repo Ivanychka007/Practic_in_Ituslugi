@@ -1,21 +1,20 @@
 <template>
-  <div id="app">
+  <header>
     <nav>
-      <router-link to="/">Autorization</router-link> |
-      <router-link to="/pages-reading">Pages</router-link> |
-      <router-link to="/seach-reading">Search</router-link> |
-      <router-link to="/meter-reading">Form</router-link>
+     
     </nav>
-    <router-view/>
-  </div>
+  </header>
 </template>
+
+
 <style>
-#app {
+header {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background-color: azure;
 }
 
 nav {

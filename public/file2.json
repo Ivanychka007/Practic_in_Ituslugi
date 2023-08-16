@@ -1,0 +1,179 @@
+{
+    "meters": [
+      {
+        "type": "1234",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "7389",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "1235",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "1236",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "1237",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "1238",
+        "number": "7389",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "2345",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "3456",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "3214",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "4532",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "2311",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "3221",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "2132",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "1230",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "9653",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "2324",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "0754",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "7434",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "6892",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "4233",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "5222",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "6444",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "7321",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "9223",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Принята",
+        "currentReading": "2022-02-05"
+      },
+      {
+        "type": "3200",
+        "number": "2022-01-02",
+        "lastReading": "Биржевая",
+        "lastReadingDate": "Отклонена",
+        "currentReading": "2022-02-05"
+      }     
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "accounts": [
+        {
+            "account": {
+                "name": "Валера",
+                "address": "Московское шоссе 1а",
+                "accountNumber": 123456789
+            },
+            "meters": [
+                {
+                    "type": "Отопление",
+                    "number": "10023",
+                    "lastReading": "10210",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                },
+                {
+                    "type": "Вода",
+                    "number": "456",
+                    "lastReading": "50",
+                    "lastReadingDate": "2022-01-02",
+                    "currentReading": null,
+                    "consumption": null
+                },
+                {
+                    "type": "Газ",
+                    "number": "7389",
+                    "lastReading": "7325",
+                    "lastReadingDate": "2022-04-01",
+                    "currentReading": null,
+                    "consumption": null
+                }
+            ]
+        }, {
+            "account": {
+                "name": "Олег",
+                "address": "Революционная 77",
+                "accountNumber": 123
+            },
+            "meters": [
+                {
+                    "type": "Отопление",
+                    "number": "1223",
+                    "lastReading": "1090",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                },
+                {
+                    "type": "Вода",
+                    "number": "456",
+                    "lastReading": "50",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                },
+                {
+                    "type": "Газ",
+                    "number": "789",
+                    "lastReading": "75",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                }
+            ]
+        }, {
+            "account": {
+                "name": "Стас",
+                "address": "Новомайская 32",
+                "accountNumber": 123478
+            },
+            "meters": [
+                {
+                    "type": "Отопление",
+                    "number": "123",
+                    "lastReading": "100",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                },
+                {
+                    "type": "Вода",
+                    "number": "456",
+                    "lastReading": "50",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption":null
+                },
+                {
+                    "type": "Газ",
+                    "number": "789",
+                    "lastReading": "75",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                }
+            ]
+        }, {
+            "account": {
+                "name": "Дмитрий",
+                "address": "Межевая 1",
+                "accountNumber": 123456789
+            },
+            "meters": [
+                {
+                    "type": "Отопление",
+                    "number": "123",
+                    "lastReading": "100",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading":null,
+                    "consumption": null
+                },
+                {
+                    "type": "Вода",
+                    "number": "456",
+                    "lastReading": "50",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                },
+                {
+                    "type": "Газ",
+                    "number": "789",
+                    "lastReading": "75",
+                    "lastReadingDate": "2022-01-01",
+                    "currentReading": null,
+                    "consumption": null
+                }
+            ]
+        }
+    ]
+}
